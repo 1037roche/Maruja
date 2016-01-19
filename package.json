@@ -1,0 +1,12 @@
+{
+	"name" : "maruja",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"morgan" : "~1.6.1",
+	},
+	 "repository": {
+        "type": "git",
+        "url": "git://github.com/1037roche/Maruja.git"
+    },
+    "license": "MIT"
+}
